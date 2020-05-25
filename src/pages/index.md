@@ -12,42 +12,29 @@ description: We’re here to support you whenever you need it – that’s why s
   clients stay with us for so long.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/canva-macbook-beside-eyeglasses-and-smartphone.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        The business world has changed beyond recognition in recent weeks - and
+        being digitally connected has never been more important.
+    - image: /img/canva-computer-keyboard.jpg
+      text: How do enterprises organise the transformation journey from ‘doing
+        digital’ to ‘being digital’? Which are the most successful models and
+        how do organisations embed them?
+    - image: /img/canva-woman-holding-compact-camera-while-feet-on-top-of-vehicle-dashboard.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Cloud can create huge opportunities for your organisation. But it also
+        creates questions about how your business operates. That’s why every
+        businessperson needs to be Cloud Fluent. Read our guide to get started.
+    - image: /img/canva-green-circuit-board.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        For our clients, it’s not about Cloud – it’s about what Cloud makes
+        possible. Explore how Cloud can help address a variety of organisational
+        challenges.
   heading: NACS
   description: "\n"
 main:
   heading: Great services with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: AAAA
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
