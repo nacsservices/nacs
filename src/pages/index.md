@@ -5,13 +5,9 @@ image: /img/home-jumbotron.jpg
 heading: Customer Service
 subheading: Support sustainable operation for your business
 mainpitch:
-  title: Why NACS
-  description: >
-    We’ll give you the time to focus on growing your business, while we take
-    care of all the things that distract you from sales – from paying
-    contractors and temps on time to invoicing clients to chasing payments to
-    helping make sense of compliance and legislation. We only work with
-    recruitment agencies, so we understand your business – and how best to help.
+  title: Who is NACS
+  description: We are creative, professional, thoughtful, respectful, purposeful
+    and curious; we are smart, humble, hardworking and collaborative.
 description: We’re here to support you whenever you need it – that’s why so many
   clients stay with us for so long.
 intro:
