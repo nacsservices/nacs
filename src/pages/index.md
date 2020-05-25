@@ -2,19 +2,18 @@
 templateKey: index-page
 title: Business operation services
 image: /img/home-jumbotron.jpg
-heading: Business operation services
+heading: Customer Service
 subheading: Support sustainable operation for your business
 mainpitch:
   title: Why NACS
   description: >
-    NACS is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: NACS is the ultimate spot for coffee lovers who want to learn about
-  their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    We’ll give you the time to focus on growing your business, while we take
+    care of all the things that distract you from sales – from paying
+    contractors and temps on time to invoicing clients to chasing payments to
+    helping make sense of compliance and legislation. We only work with
+    recruitment agencies, so we understand your business – and how best to help.
+description: We’re here to support you whenever you need it – that’s why so many
+  clients stay with us for so long.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,12 +43,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: NACS
+  description: "\n"
 main:
   heading: Great services with no compromises
   description: >
