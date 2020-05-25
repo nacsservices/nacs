@@ -3,6 +3,8 @@ templateKey: about-page
 path: /about
 title: About our values
 ---
+![NCAS Values](/img/canva-computer-keyboard.jpg)
+
 ## Empathy
 
 **Curiosity. Understanding. Appreciation.** \
