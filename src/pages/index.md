@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Business operation services
-image: /img/white-laptop-twitter-header-1-.png
+image: /img/canva-3d-illustration-of-white-robot.jpg
 heading: Customer Service
 subheading: Support sustainable operation for your business
 mainpitch:
