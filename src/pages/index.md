@@ -20,7 +20,7 @@ intro:
       text: How do enterprises organise the transformation journey from ‘doing
         digital’ to ‘being digital’? Which are the most successful models and
         how do organisations embed them?
-    - image: /img/canva-woman-holding-compact-camera-while-feet-on-top-of-vehicle-dashboard.jpg
+    - image: /img/canva-3d-illustration-of-white-robot.jpg
       text: >
         Cloud can create huge opportunities for your organisation. But it also
         creates questions about how your business operates. That’s why every
